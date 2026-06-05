@@ -170,7 +170,7 @@ Contributed to mission-critical government systems used nationwide by public ins
 
 ## Professional Links
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- LinkedIn: https://www.linkedin.com/in/eduardo-dunice/
 - GitHub: https://github.com/GattsDF
 
 ---
